@@ -53,6 +53,7 @@ h2{
 .colorCode{
     padding: 1rem;
     margin-top: 2rem;
+    border-right:1px solid white;
     border-radius: .5rem;
     background-color: rgba(255, 255, 255, .6);
     cursor: pointer;
