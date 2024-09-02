@@ -13,6 +13,7 @@ body{
         #ff0000
     );
    background-repeat: no-repeat;
+   background-size: cover;
 }
 .container{
    display: flex;
